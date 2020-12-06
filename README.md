@@ -1,2 +1,2 @@
-# Kartik-DigitalOcean
+# Yashika-DigitalOcean
 Incubate India Hackathon
